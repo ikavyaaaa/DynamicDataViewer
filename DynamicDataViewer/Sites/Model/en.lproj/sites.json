@@ -1,0 +1,39 @@
+{
+    "code": "LMSI6000",
+    "message": "Success.",
+    "data": {
+        "totalCount": 2,
+        "totalPages": 1,
+        "currentPage": 1,
+        "pageSize": 2,
+        "sites": [
+            {
+                "id": "8a82945191c175a00191e732117205c5",
+                "name": "ZK India",
+                "code": "565cfe104d71404491e45829367c3e",
+                "companyId": "8a82944d91ccbb340191e5037d12020f",
+                "siteTypeId": "8a82945191c175a00191e51c9f1f058a",
+                "addressId": "8a82945191c175a00191e732117005c4",
+                "createdAt": "2024-09-12 17:05:03",
+                "updateAt": "2025-04-02 09:58:39",
+                "deviceCount": "38",
+                "timeZone": "+05:30",
+                "dst": ""
+            },
+            {
+                "id": "8a82945191c175a00191e51c9f1f058b",
+                "name": "DEFAULT",
+                "code": "DEFAULT",
+                "description": "DEFAULT",
+                "companyId": "8a82944d91ccbb340191e5037d12020f",
+                "siteTypeId": "8a82945191c175a00191e51c9f1f058a",
+                "addressId": "8a828a0d91ea8ea10191f00fb17800b1",
+                "createdAt": "2024-09-12 07:22:23",
+                "updateAt": "2025-03-28 11:24:53",
+                "deviceCount": "0",
+                "timeZone": "+05:30",
+                "dst": ""
+            }
+        ]
+    }
+}

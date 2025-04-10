@@ -1,0 +1,355 @@
+{
+    "code": "DMSI0000",
+    "msg": "Success.",
+    "data": {
+        "totalCount": 6,
+        "totalPages": 2,
+        "currentPage": 1,
+        "pageSize": 3,
+        "timeZone": [
+            {
+                "id": "8a8294e595ff472701960f975814045c",
+                "companyId": "8a82944d91ccbb340191e5037d12020f",
+                "operationName": "Break-time",
+                "remark": "",
+                "operationNum": 6,
+                "operationDetails": [
+                    {
+                        "id": "8a8294e595ff472701960f975817045d",
+                        "intervals": 1,
+                        "type": 1,
+                        "startTime": "11:00",
+                        "endTime": "11:15",
+                        "createdAt": "2025-04-07 09:31:38",
+                        "updateAt": "2025-04-07 09:31:38"
+                    },
+                    {
+                        "id": "8a8294e595ff472701960f975818045e",
+                        "intervals": 1,
+                        "type": 2,
+                        "startTime": "11:00",
+                        "endTime": "11:15",
+                        "createdAt": "2025-04-07 09:31:38",
+                        "updateAt": "2025-04-07 09:31:38"
+                    },
+                    {
+                        "id": "8a8294e595ff472701960f97581a045f",
+                        "intervals": 1,
+                        "type": 3,
+                        "startTime": "11:00",
+                        "endTime": "11:15",
+                        "createdAt": "2025-04-07 09:31:38",
+                        "updateAt": "2025-04-07 09:31:38"
+                    },
+                    {
+                        "id": "8a8294e595ff472701960f97581c0460",
+                        "intervals": 1,
+                        "type": 4,
+                        "startTime": "11:00",
+                        "endTime": "11:15",
+                        "createdAt": "2025-04-07 09:31:38",
+                        "updateAt": "2025-04-07 09:31:38"
+                    },
+                    {
+                        "id": "8a8294e595ff472701960f97581e0461",
+                        "intervals": 1,
+                        "type": 5,
+                        "startTime": "11:00",
+                        "endTime": "11:15",
+                        "createdAt": "2025-04-07 09:31:38",
+                        "updateAt": "2025-04-07 09:31:38"
+                    },
+                    {
+                        "id": "8a8294e595ff472701960f97581f0462",
+                        "intervals": 2,
+                        "type": 1,
+                        "startTime": "13:00",
+                        "endTime": "14:00",
+                        "createdAt": "2025-04-07 09:31:38",
+                        "updateAt": "2025-04-07 09:31:38"
+                    },
+                    {
+                        "id": "8a8294e595ff472701960f9758210463",
+                        "intervals": 2,
+                        "type": 2,
+                        "startTime": "00:00",
+                        "endTime": "14:00",
+                        "createdAt": "2025-04-07 09:31:38",
+                        "updateAt": "2025-04-07 09:31:38"
+                    },
+                    {
+                        "id": "8a8294e595ff472701960f9758220464",
+                        "intervals": 2,
+                        "type": 3,
+                        "startTime": "13:00",
+                        "endTime": "14:00",
+                        "createdAt": "2025-04-07 09:31:38",
+                        "updateAt": "2025-04-07 09:31:38"
+                    },
+                    {
+                        "id": "8a8294e595ff472701960f9758240465",
+                        "intervals": 2,
+                        "type": 4,
+                        "startTime": "13:00",
+                        "endTime": "14:00",
+                        "createdAt": "2025-04-07 09:31:38",
+                        "updateAt": "2025-04-07 09:31:38"
+                    },
+                    {
+                        "id": "8a8294e595ff472701960f9758260466",
+                        "intervals": 2,
+                        "type": 5,
+                        "startTime": "13:00",
+                        "endTime": "14:00",
+                        "createdAt": "2025-04-07 09:31:38",
+                        "updateAt": "2025-04-07 09:31:38"
+                    },
+                    {
+                        "id": "8a8294e595ff472701960f9758270467",
+                        "intervals": 3,
+                        "type": 1,
+                        "startTime": "16:00",
+                        "endTime": "16:15",
+                        "createdAt": "2025-04-07 09:31:38",
+                        "updateAt": "2025-04-07 09:31:38"
+                    },
+                    {
+                        "id": "8a8294e595ff472701960f9758290468",
+                        "intervals": 3,
+                        "type": 2,
+                        "startTime": "00:00",
+                        "endTime": "16:15",
+                        "createdAt": "2025-04-07 09:31:38",
+                        "updateAt": "2025-04-07 09:31:38"
+                    },
+                    {
+                        "id": "8a8294e595ff472701960f97582a0469",
+                        "intervals": 3,
+                        "type": 3,
+                        "startTime": "16:00",
+                        "endTime": "16:15",
+                        "createdAt": "2025-04-07 09:31:38",
+                        "updateAt": "2025-04-07 09:31:38"
+                    },
+                    {
+                        "id": "8a8294e595ff472701960f97582c046a",
+                        "intervals": 3,
+                        "type": 4,
+                        "startTime": "16:00",
+                        "endTime": "16:15",
+                        "createdAt": "2025-04-07 09:31:38",
+                        "updateAt": "2025-04-07 09:31:38"
+                    },
+                    {
+                        "id": "8a8294e595ff472701960f97582e046b",
+                        "intervals": 3,
+                        "type": 5,
+                        "startTime": "16:00",
+                        "endTime": "16:15",
+                        "createdAt": "2025-04-07 09:31:38",
+                        "updateAt": "2025-04-07 09:31:38"
+                    }
+                ]
+            },
+            {
+                "id": "8a828a7d937d12d101938ce03d6905ee",
+                "companyId": "8a82944d91ccbb340191e5037d12020f",
+                "operationName": "New Timings",
+                "remark": "",
+                "operationNum": 5,
+                "operationDetails": [
+                    {
+                        "id": "8a828a7d937d12d101938ce03d7105ef",
+                        "intervals": 1,
+                        "type": 0,
+                        "startTime": "00:01",
+                        "endTime": "23:59",
+                        "createdAt": "2024-12-03 14:15:26",
+                        "updateAt": "2024-12-03 14:15:26"
+                    },
+                    {
+                        "id": "8a828a7d937d12d101938ce03d7a05f0",
+                        "intervals": 1,
+                        "type": 1,
+                        "startTime": "00:01",
+                        "endTime": "23:59",
+                        "createdAt": "2024-12-03 14:15:26",
+                        "updateAt": "2024-12-03 14:15:26"
+                    },
+                    {
+                        "id": "8a828a7d937d12d101938ce03d7b05f1",
+                        "intervals": 1,
+                        "type": 2,
+                        "startTime": "00:01",
+                        "endTime": "23:59",
+                        "createdAt": "2024-12-03 14:15:26",
+                        "updateAt": "2024-12-03 14:15:26"
+                    },
+                    {
+                        "id": "8a828a7d937d12d101938ce03d7c05f2",
+                        "intervals": 1,
+                        "type": 3,
+                        "startTime": "00:01",
+                        "endTime": "23:59",
+                        "createdAt": "2024-12-03 14:15:26",
+                        "updateAt": "2024-12-03 14:15:26"
+                    },
+                    {
+                        "id": "8a828a7d937d12d101938ce03d7d05f3",
+                        "intervals": 1,
+                        "type": 4,
+                        "startTime": "00:01",
+                        "endTime": "23:59",
+                        "createdAt": "2024-12-03 14:15:26",
+                        "updateAt": "2024-12-03 14:15:26"
+                    },
+                    {
+                        "id": "8a828a7d937d12d101938ce03d7d05f4",
+                        "intervals": 1,
+                        "type": 5,
+                        "startTime": "00:01",
+                        "endTime": "23:59",
+                        "createdAt": "2024-12-03 14:15:26",
+                        "updateAt": "2024-12-03 14:15:26"
+                    },
+                    {
+                        "id": "8a828a7d937d12d101938ce03d7e05f5",
+                        "intervals": 1,
+                        "type": 6,
+                        "startTime": "00:01",
+                        "endTime": "23:59",
+                        "createdAt": "2024-12-03 14:15:26",
+                        "updateAt": "2024-12-03 14:15:26"
+                    },
+                    {
+                        "id": "8a828a7d937d12d101938ce03d7f05f6",
+                        "intervals": 1,
+                        "type": 9,
+                        "startTime": "00:01",
+                        "endTime": "23:59",
+                        "createdAt": "2024-12-03 14:15:26",
+                        "updateAt": "2024-12-03 14:15:26"
+                    },
+                    {
+                        "id": "8a828a7d937d12d101938ce03d7f05f7",
+                        "intervals": 1,
+                        "type": 10,
+                        "startTime": "00:01",
+                        "endTime": "23:59",
+                        "createdAt": "2024-12-03 14:15:26",
+                        "updateAt": "2024-12-03 14:15:26"
+                    },
+                    {
+                        "id": "8a828a7d937d12d101938ce03d8005f8",
+                        "intervals": 1,
+                        "type": 11,
+                        "startTime": "00:01",
+                        "endTime": "23:59",
+                        "createdAt": "2024-12-03 14:15:26",
+                        "updateAt": "2024-12-03 14:15:26"
+                    }
+                ]
+            },
+            {
+                "id": "8a829422932ab68f01932acf34ff0004",
+                "companyId": "8a82944d91ccbb340191e5037d12020f",
+                "operationName": "Office Timings",
+                "remark": null,
+                "operationNum": 4,
+                "operationDetails": [
+                    {
+                        "id": "8a828ae99344e4ee0193499c3f800c5d",
+                        "intervals": 1,
+                        "type": 0,
+                        "startTime": "00:01",
+                        "endTime": "23:59",
+                        "createdAt": "2024-11-20 12:46:36",
+                        "updateAt": "2024-11-20 12:46:36"
+                    },
+                    {
+                        "id": "8a828ae99344e4ee0193499c3f860c5e",
+                        "intervals": 1,
+                        "type": 1,
+                        "startTime": "00:01",
+                        "endTime": "23:59",
+                        "createdAt": "2024-11-20 12:46:36",
+                        "updateAt": "2024-11-20 12:46:36"
+                    },
+                    {
+                        "id": "8a828ae99344e4ee0193499c3f870c5f",
+                        "intervals": 1,
+                        "type": 2,
+                        "startTime": "00:01",
+                        "endTime": "23:59",
+                        "createdAt": "2024-11-20 12:46:36",
+                        "updateAt": "2024-11-20 12:46:36"
+                    },
+                    {
+                        "id": "8a828ae99344e4ee0193499c3f880c60",
+                        "intervals": 1,
+                        "type": 3,
+                        "startTime": "00:01",
+                        "endTime": "23:59",
+                        "createdAt": "2024-11-20 12:46:36",
+                        "updateAt": "2024-11-20 12:46:36"
+                    },
+                    {
+                        "id": "8a828ae99344e4ee0193499c3f880c61",
+                        "intervals": 1,
+                        "type": 4,
+                        "startTime": "00:01",
+                        "endTime": "23:59",
+                        "createdAt": "2024-11-20 12:46:36",
+                        "updateAt": "2024-11-20 12:46:36"
+                    },
+                    {
+                        "id": "8a828ae99344e4ee0193499c3f890c62",
+                        "intervals": 1,
+                        "type": 5,
+                        "startTime": "00:01",
+                        "endTime": "23:59",
+                        "createdAt": "2024-11-20 12:46:36",
+                        "updateAt": "2024-11-20 12:46:36"
+                    },
+                    {
+                        "id": "8a828ae99344e4ee0193499c3f8a0c63",
+                        "intervals": 1,
+                        "type": 6,
+                        "startTime": "00:01",
+                        "endTime": "23:59",
+                        "createdAt": "2024-11-20 12:46:36",
+                        "updateAt": "2024-11-20 12:46:36"
+                    },
+                    {
+                        "id": "8a828ae99344e4ee0193499c3f8b0c64",
+                        "intervals": 1,
+                        "type": 9,
+                        "startTime": "00:01",
+                        "endTime": "23:59",
+                        "createdAt": "2024-11-20 12:46:36",
+                        "updateAt": "2024-11-20 12:46:36"
+                    },
+                    {
+                        "id": "8a828ae99344e4ee0193499c3f8c0c65",
+                        "intervals": 1,
+                        "type": 10,
+                        "startTime": "00:01",
+                        "endTime": "23:59",
+                        "createdAt": "2024-11-20 12:46:36",
+                        "updateAt": "2024-11-20 12:46:36"
+                    },
+                    {
+                        "id": "8a828ae99344e4ee0193499c3f8c0c66",
+                        "intervals": 1,
+                        "type": 11,
+                        "startTime": "00:01",
+                        "endTime": "23:59",
+                        "createdAt": "2024-11-20 12:46:36",
+                        "updateAt": "2024-11-20 12:46:36"
+                    }
+                ]
+            }
+        ]
+    },
+    "mid": "9186f96032b046e28fc6c89858578dce"
+}

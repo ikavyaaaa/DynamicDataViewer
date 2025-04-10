@@ -1,0 +1,72 @@
+{
+    "code": "CASI0001",
+    "msg": "Success",
+    "data": {
+        "doors": [
+            {
+                "doorId": "0480d61cd8f837d997fbaedd674a4b21",
+                "doorName": "SF-Flab-barrier-in-1",
+                "doorNo": "1",
+                "deviceId": "67ed760058114100be15c645d1a1d966",
+                "deviceName": "SF-Flab-barrier-in",
+                "deviceModel": "FaceDepot-7BL",
+                "status": 0,
+                "deviceSn": "ZHZ6241300047",
+                "enable": 1,
+                "siteId": "8a82945191c175a00191e732117205c5",
+                "siteName": "ZK India",
+                "activeTimeSegId": "8a82948591e0f79d0191e51c8c240509",
+                "activeTimeSegName": "24HR",
+                "verifyModeName": "Automatically identified",
+                "machineType": "1",
+                "companyId": "8a82944d91ccbb340191e5037d12020f",
+                "createdAt": "2024-11-22T06:48:51.728327",
+                "updatedAt": "2024-11-22T06:48:51.72833"
+            },
+            {
+                "doorId": "2720a60e1e2c3ac9ad1197c6c9667711",
+                "doorName": "SF-Flab-barrier-Out-1",
+                "doorNo": "1",
+                "deviceId": "a1f6278e2cbb416f902df045a4868d2c",
+                "deviceName": "SF-Flab-barrier-Out",
+                "deviceModel": "FaceDepot-7BL",
+                "status": 0,
+                "deviceSn": "ZHZ6241300041",
+                "enable": 1,
+                "siteId": "8a82945191c175a00191e732117205c5",
+                "siteName": "ZK India",
+                "activeTimeSegId": "8a82948591e0f79d0191e51c8c240509",
+                "activeTimeSegName": "24HR",
+                "verifyModeName": "Automatically identified",
+                "machineType": "1",
+                "companyId": "8a82944d91ccbb340191e5037d12020f",
+                "createdAt": "2024-11-22T08:47:56.749865",
+                "updatedAt": "2024-11-22T08:47:56.749867"
+            },
+            {
+                "doorId": "119373e0bd6439c3949af85a68ec542a",
+                "doorName": "GF-Entrance-1",
+                "doorNo": "1",
+                "deviceId": "2a005acd5cb247689134a9617379c3f3",
+                "deviceName": "GF-Entrance",
+                "deviceModel": "OmniAC30",
+                "status": 0,
+                "deviceSn": "TH40623490200",
+                "enable": 1,
+                "siteId": "8a82945191c175a00191e732117205c5",
+                "siteName": "ZK India",
+                "activeTimeSegId": "8a82948591e0f79d0191e51c8c240509",
+                "activeTimeSegName": "24HR",
+                "verifyModeName": "Automatically identified",
+                "machineType": "1",
+                "companyId": "8a82944d91ccbb340191e5037d12020f",
+                "createdAt": "2025-04-07T12:44:45.084871",
+                "updatedAt": "2025-04-07T12:44:45.084873"
+            }
+        ],
+        "totalPages": 13,
+        "totalCount": 37,
+        "currentPage": 1
+    },
+    "mid": null
+}
